@@ -71,29 +71,29 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| POSI-01 | Phase [TBD] | Pending |
-| POSI-02 | Phase [TBD] | Pending |
-| POSI-03 | Phase [TBD] | Pending |
-| HOME-01 | Phase [TBD] | Pending |
-| HOME-02 | Phase [TBD] | Pending |
-| HOME-03 | Phase [TBD] | Pending |
-| HOME-04 | Phase [TBD] | Pending |
-| HOME-05 | Phase [TBD] | Pending |
-| HOME-06 | Phase [TBD] | Pending |
-| HOME-07 | Phase [TBD] | Pending |
-| PROJ-01 | Phase [TBD] | Pending |
-| PROJ-02 | Phase [TBD] | Pending |
-| PROJ-03 | Phase [TBD] | Pending |
-| PROJ-04 | Phase [TBD] | Pending |
-| RDME-01 | Phase [TBD] | Pending |
-| RDME-02 | Phase [TBD] | Pending |
-| RDME-03 | Phase [TBD] | Pending |
+| POSI-01 | Phase 1 | Pending |
+| POSI-02 | Phase 2 | Pending |
+| POSI-03 | Phase 2 | Pending |
+| HOME-01 | Phase 1 | Pending |
+| HOME-02 | Phase 1 | Pending |
+| HOME-03 | Phase 1 | Pending |
+| HOME-04 | Phase 2 | Pending |
+| HOME-05 | Phase 1 | Pending |
+| HOME-06 | Phase 2 | Pending |
+| HOME-07 | Phase 1 | Pending |
+| PROJ-01 | Phase 2 | Pending |
+| PROJ-02 | Phase 2 | Pending |
+| PROJ-03 | Phase 2 | Pending |
+| PROJ-04 | Phase 2 | Pending |
+| RDME-01 | Phase 3 | Pending |
+| RDME-02 | Phase 3 | Pending |
+| RDME-03 | Phase 3 | Pending |
 
 **Coverage:**
 - v1 requirements: 17 total
-- Mapped to phases: 0
-- Unmapped: 17 ⚠️
+- Mapped to phases: 17
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-04-17*
-*Last updated: 2026-04-17 after initial definition*
+*Last updated: 2026-04-17 after roadmap creation*
